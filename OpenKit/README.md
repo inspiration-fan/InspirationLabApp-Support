@@ -12,3 +12,9 @@
 OpenKit is a local file toolkit for iPhone and iPad. Browse archives, preview documents, and make quick edits. No account or ads. Free includes 10 successful extractions to the library or ZIP creations per device per calendar month. Browsing, temporary previews, editing, text tools, and all six accent colors are unlimited. Pro removes the operation quota, with the same format and size limits.
 
 本仓库仅提供支持与隐私信息。Public issues are visible to everyone; send private questions by email.
+
+## Quick start
+
+**Get just the file you need from an archive.** Import a ZIP or a supported unencrypted RAR or 7z archive, preview its contents, then extract the file you want. You can also inspect and format JSON on your iPhone or iPad. Files are processed on your device.
+
+[View My OpenKit on the App Store](https://apps.apple.com/us/app/my-openkit/id6823619781)
