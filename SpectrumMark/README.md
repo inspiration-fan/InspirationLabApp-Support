@@ -20,6 +20,10 @@
 
 ## English
 
+**Put your name on the video.** Add a text or logo watermark before sharing a clip. On iPhone, open Studio → Visible, choose an SDR video from Photos or Files, position your watermark, then export. Processing stays on your device.
+
+[View SpectrumMark on the App Store](https://apps.apple.com/us/app/spectrummark/id6821503049)
+
 SpectrumMark processes video watermarks locally on iPhone and Mac. Visible text and image watermarks are free and unlimited. Invisible embedding and authenticated extraction share 10 successful operations per calendar month per device; an active Pro subscription removes this limit.
 
 Read the [privacy policy](PRIVACY.en.md), open a [support issue](https://github.com/inspiration-fan/InspirationLabApp-Support/issues), or email [yifannir@outlook.com](mailto:yifannir@outlook.com). Do not post private videos, watermark keys, Apple Account credentials or payment details in public issues.
