@@ -3,6 +3,12 @@
 Centralized public support documentation for InspirationLab applications.  
 InspirationLab 应用支持文档与隐私政策总入口。
 
+## Get the apps
+
+- **SpectrumMark:** Add a text or logo watermark before sharing an iPhone video. [App Store](https://apps.apple.com/us/app/spectrummark/id6821503049) · [English guide](SpectrumMark/README.md#english)
+- **OpenKit:** Preview an archive or open a JSON file on iPhone and iPad. [App Store](https://apps.apple.com/us/app/my-openkit/id6823619781) · [English guide](OpenKit/README.md#quick-start)
+- **Blinkeep:** Pick each person's best expression from several shots of the same group. [App Store](https://apps.apple.com/us/app/blinkeep-group-photos/id6827849365) · [English guide](Blinkeep/README.md#quick-start)
+
 | App | Support / 支持 | Privacy / 隐私政策 |
 | --- | --- | --- |
 | [SpectrumMark · 数安视频水印](SpectrumMark/README.md) | [Support / 支持](SpectrumMark/SUPPORT.md) | [English](SpectrumMark/PRIVACY.en.md) · [简体中文](SpectrumMark/PRIVACY.zh-Hans.md) |
