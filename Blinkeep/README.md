@@ -12,3 +12,9 @@ Blinkeep is an iOS app for on-device group photo editing. This repository provid
 生效日期 / Effective date: 2026-10-28
 
 联系邮箱 / Contact email: [yifannir@outlook.com](mailto:yifannir@outlook.com)
+
+## Quick start
+
+**Someone blinked in the best group shot?** Start with two or more photos from the same scene. Choose a base photo, tap the person you want to adjust, and pick a compatible expression from another shot. Save a new copy to Photos. Editing happens on your device and leaves your originals unchanged.
+
+[View Blinkeep on the App Store](https://apps.apple.com/us/app/blinkeep-group-photos/id6827849365)
